@@ -232,3 +232,7 @@ nav:
     url: "/ctf/"
   - title: "Blog"
     url: "/blog/"
+
+# _config.yml
+search:
+  enabled: true
