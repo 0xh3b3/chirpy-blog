@@ -1,12 +1,9 @@
 ---
-title: "[NahamCon2025] Flag Detector"
+title: "Free Flags!"
 date: 2025-06-23
 categories: [CTF, NahamCon2025, Warmups]
 tags: [warmups,misc]
 ---
-
-# Free Flags!
-
 
 - **Category:** Warmups
 - **Points:** 50

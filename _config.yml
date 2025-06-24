@@ -236,3 +236,22 @@ nav:
 # _config.yml
 search:
   enabled: true
+
+
+---
+
+## 🧠 How It's Organized
+
+- `categories: [CTF, NahamCon2025, Web]` means it shows under:
+  - `/ctf/`
+  - Grouped by `NahamCon2025`
+  - Further grouped by `Web`
+
+- `tags` help with keyword search (e.g. xss, javascript)
+
+---
+
+### ✅ Now Run & Preview
+
+```bash
+bundle exec jekyll serve
