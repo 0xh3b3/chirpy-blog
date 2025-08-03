@@ -1,0 +1,29 @@
+---
+title: "KeepGoin"
+date: 2025-08-01
+categories: [CTF, mmuCTF, Misc]
+tags: [stego]
+---
+
+# Challenge
+>***Points:** 50*
+
+>Just a teaser for mini ZipBomb attack
+>**Attachment:** [keepGoin.zip](/assets/file/keepGoin.zip)
+>
+>***Author:** mburk4*
+---
+
+## Solution
+We all know what a zip bomb does but lets just risk opening it and see its innitial behaviour before attempting any other methodology. incase things go south we would kill the process
+
+`unzip keepGoin.zip`
+
+We get this folder: [keepGoin_FILES](/assets/file/keepGoin_FILES) which has alot of text files. On __cd__ to the file __cat__ all files inside __'*'__ and __grepping__ the flag format pattern to match the line with the flag we get... an error!!!, for some reason the cat command cannot return greppable of files with binary data in it, so I switched to strings command which can handle binary data by only extracting the strings in it
+
+`strings * | grep "mmuctf"`
+
+> `mmuctf{z1pT4st1c_$kiLl$$$}`
+---
+
+## Learning Resources

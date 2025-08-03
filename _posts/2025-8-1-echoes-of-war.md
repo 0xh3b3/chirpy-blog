@@ -1,5 +1,5 @@
 ---
-title: "Shadow"
+title: "Echoes Of War"
 date: 2025-05-20
 categories: [CTF, mmuCTF, Stego]
 tags: [stego]
@@ -64,7 +64,7 @@ TryHackMe: [Cyberchef Basics](https://tryhackme.com/room/cyberchefbasics)</br>
 
     WRITERS COMMENTS:
 
-    "At this point, from the many ctf-writeup I have written you should have realised how understanding hexadecimals is very important not just in CTFs but in Ethical Hacking and Cyber Security in general, I challenge the reader to go and research and understand more about hexadecimal numbers. I have encountered Hexadecimals in Forensics, Programming, Cryptography, etc both in CTFs and real world scenarios"
+    "At this point, from the few ctf-writeup I have written you should have realised how understanding hexadecimals is very important not just in CTFs but in Ethical Hacking and Cyber Security in general, I challenge the reader to go and research and understand more about hexadecimal numbers. I have encountered Hexadecimals in Forensics, Programming, Cryptography, etc. both in CTFs and real world scenarios"
 
     ~0xh3b3
 
