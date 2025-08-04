@@ -30,9 +30,9 @@ The result was a morse code: [file1.txt](/assets/file/file1.txt). I uploaded the
 
 I saved the output into a file, as cyberchef has an option to do that: [file2.txt](/assets/file/file2.txt) 
 
-I went directly to my side chick for decoding cipers, [dcode.fr Cipher Identifier Utility](https://www.dcode.fr/cipher-identifier). It quickly identified the text as not a cipher but a Programming Language. Called __Ook! Programming language__ which is a parody of BrainFuck.js
+I went directly to my side chick for decoding cipers, . It quickly identified the text as not a cipher but a Programming Language. Called __Ook! Programming language__ which is a parody of BrainFuck.js
 
-We call such programming languages that do not use the regular Arabic letters, __Esoteric Programming Languages__
+We call such programming languages that do not use the regular Arabic let[dcode.fr Cipher Identifier Utility](https://www.dcode.fr/cipher-identifier)ters, __Esoteric Programming Languages__
 
 A quick google search for Ook! Deobsuficator and I got this site [Brainfuck/Text/Ook! Deobsuficator](https://stuff.splitbrain.org/ook/). After deobsufication I still got a cipher which was more close to the flag, 
 `Pg rmzpf rxmsqf: yygofr{zg_fmxqd_hu_emyyq_ebdas}`
@@ -46,10 +46,13 @@ I tried translating it with Google Translate and it identified it as Danish, to 
 
 ## Learning Resources
 
-Wikipedia: [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language)
+Wikipedia: [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language)</br>
+TryHackMe: [Linux Modules](https://tryhackme.com/room/linuxmodules)</br>
+TryHackMe: [Practice 1](https://tryhackme.com/room/ctfcollectionvol1)</br>
+TryHackMe: [Practice 2](https://tryhackme.com/room/ctfcollectionvol2)</br>
+TryHackMe: [CryptoForDummies](https://tryhackme.com/room/cryptographyfordummies)</br>
 
-My Top Steganography Tools
-
+My Top Steganography Tools:</br>
 `Strings`
 `File`
 `ExifTool`

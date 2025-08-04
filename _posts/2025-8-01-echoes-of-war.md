@@ -1,6 +1,6 @@
 ---
 title: "Echoes Of War"
-date: 2025-05-20
+date: 2025-08-01
 categories: [CTF, mmuCTF, Stego]
 tags: [stego]
 ---
