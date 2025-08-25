@@ -2,7 +2,7 @@
 title: "The Alchemist's Secret"
 date: 2025-08-23
 categories: [CTF, SANReN, Cryptography]
-tags: [srypto]
+tags: [crypto]
 ---
 
 # Challenge
